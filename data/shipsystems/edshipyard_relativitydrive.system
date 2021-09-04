@@ -1,0 +1,12 @@
+{
+    "id":"edshipyard_relativitydrive",
+    "type":"STAT_MOD",
+    "aiType":"CUSTOM",
+    "aiScript":"data.scripts.shipsystems.ai.RelativityDriveAI",
+
+    "statsScript":"data.scripts.shipsystems.RelativityDriveStats",
+
+	"fadeActivationSoundOnChargedown":true,
+	"useSound":"ed_zawarudo",
+	"outOfUsesSound":"gun_out_of_ammo",
+}

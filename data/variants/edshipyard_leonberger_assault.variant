@@ -1,0 +1,59 @@
+{
+  "displayName": "Assault",
+  "fluxCapacitors": 23,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "edshipyard_leonberger",
+  "hullMods": [
+    "armoredweapons",
+    "auxiliarythrusters",
+    "blast_doors",
+    "heavyarmor",
+    "reinforcedhull"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "edshipyard_leonberger_assault",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "edshipyard_SB3",
+        "WS 002": "edshipyard_SB3"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0008": "edshipyard_2_Dust",
+        "WS0010": "edshipyard_2_Dust",
+        "WS0011": "edshipyard_2_Dust",
+        "WS0012": "edshipyard_2_Dust"
+		}
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "dualflak",
+        "WS002": "dualflak"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0004": "lightdualmg",
+        "WS0005": "lightdualmg",
+        "WS0001": "lightdualmg",
+        "WS0003": "lightdualmg",
+        "WS0006": "lightdualmg",
+        "WS0007": "lightdualmg"
+      }
+    }
+  ],
+  "wings": []
+}

@@ -1,0 +1,11 @@
+{
+	"id":"edshipyard_wurg_sensor",
+	"type":"STAT_MOD",
+	"aiType":"CUSTOM",
+	"aiScript":"data.scripts.shipsystems.ai.WurgSensorAI",
+	
+	"statsScript":"data.scripts.shipsystems.WurgSensorStats",
+	
+	"useSound":"wurg_activate",	
+	
+}

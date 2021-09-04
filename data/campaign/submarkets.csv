@@ -1,0 +1,2 @@
+id,name,faction,desc,script,icon,order
+ed_shipyard,ED Shipyard,ed_shipyard_faction,"ED Shipyards is a private Independent aerospace manufacturer and space transportation services company. It was founded after the collapse of the Domain's rule by Eron Dust, an eccentric celebrity billionaire with the goal of developing new spaceship technologies.",data.scripts.campaign.submarkets.ed_shipyard_submarketPlugin,,800.05

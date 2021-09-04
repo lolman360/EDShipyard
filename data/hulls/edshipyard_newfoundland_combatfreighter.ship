@@ -1,0 +1,282 @@
+{
+  "bounds": [
+    -3,
+    -8,
+    -5,
+    -11.5,
+    -15,
+    -10,
+    -20.5,
+    -12.5,
+    -19,
+    -17.5,
+    -31.5,
+    -47.5,
+    -21,
+    -54.5,
+    -24.5,
+    -63,
+    -51,
+    -82.5,
+    -67,
+    -84,
+    -75,
+    -72.5,
+    -79,
+    -66,
+    -98,
+    -75,
+    -205,
+    -75,
+    -208,
+    -82,
+    -213.5,
+    -86.5,
+    -217.5,
+    -85.5,
+    -219.5,
+    -79,
+    -230,
+    -78.5,
+    -240,
+    -73,
+    -233,
+    -64.5,
+    -239,
+    -59,
+    -239,
+    59,
+    -233,
+    64.5,
+    -240,
+    73,
+    -230,
+    78.5,
+    -219.5,
+    79,
+    -217.5,
+    85.5,
+    -213.5,
+    86.5,
+    -208,
+    82,
+    -205,
+    75,
+    -98,
+    75,
+    -79,
+    66,
+    -75,
+    72.5,
+    -67,
+    84,
+    -51,
+    82.5,
+    -24.5,
+    63,
+    -21,
+    54.5,
+    -31.5,
+    47.5,
+    -19,
+    17.5,
+    -20.5,
+    12.5,
+    -15,
+    10,
+    -5,
+    11.5,
+    -3,
+    8
+  ],
+  "builtInMods": [
+    "reduced_explosion",
+    "always_detaches",
+    "edshipyard_no_shields",
+    "expanded_cargo_holds",
+    "advancedcore"
+  ],
+  "builtInWeapons": {
+    "P1": "edshipyard_PATH"
+  },
+  "center": [
+    88,
+    242
+  ],
+  "collisionRadius": 254,
+  "engineSlots": [
+    {
+      "angle": 145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        -70,
+        78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    },
+    {
+      "angle": -145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        -70,
+        -78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    }
+  ],
+  "height": 256,
+  "hullId": "edshipyard_newfoundland_combatfreighter",
+  "hullName": "Cargo Wagon",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    -118,
+    -0
+  ],
+  "shieldRadius": 148,
+  "spriteName": "graphics/ships/edshipyard_newfoundland_2.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 120,
+      "id": "SEGMENT",
+      "locations": [
+        -222,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0003",
+      "locations": [
+        -207.5,
+        17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0004",
+      "locations": [
+        -207.5,
+        -17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0001",
+      "locations": [
+        -164.5,
+        17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0002",
+      "locations": [
+        -164.5,
+        -17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0005",
+      "locations": [
+        -121.5,
+        17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0006",
+      "locations": [
+        -121.5,
+        -17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 180,
+      "arc": 120,
+      "id": "WS0009",
+      "locations": [
+        -57,
+        19
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": -180,
+      "arc": 120,
+      "id": "WS0010",
+      "locations": [
+        -57,
+        -19
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        -42,
+        -0,
+        -68,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 180,
+      "arc": 0,
+      "id": "P1",
+      "locations": [
+        -56,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 176
+}

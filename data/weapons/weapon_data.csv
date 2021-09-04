@@ -1,0 +1,49 @@
+name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+B.A.R.K.S.,edshipyard_BARKS,5,1,10000,400,,80,160,,10,0,,,,KINETIC,40,,,6,,,,,,,,1500,1500,,,"STRIKE,USE_VS_FRIGATES,ANTI_FTR,PD_ALSO,SYSTEM",,,ED Shipyard,,Anti Fighter,,,,,"Repels enemies on hit.",,,,TRUE,
+Tyrant Maw,edshipyard_MAW,5,1,1000000,2000,4000,,,200,0,0,1,,,ENERGY,,2000,20,3,10,3,,,,,10000,,,,,"SYSTEM, STRIKE",,,ED Shipyard,,Siege,,,,,"Takes 20 seconds to charge up and fires for 10 seconds. Upon fully charged a powerful pulse is released with the beam dealing massive burst damage.
+
+Shield and weapon modules are disabled while the Tyrant Maw is active. Using this weapon will cause the shield modules to overload. Interrupting the firing process by venting or overloading causes 25% CR loss.",,,,TRUE,
+Nanocloud Caster,edshipyard_wizard,2,,1500,1000,,500,800,5,25,,,,,ENERGY,1000,,0,10,3,0.1,0,30,5,5,,250,500,10,250,"STRIKE,USE_VS_FRIGATES,GUIDED_POOR,SYSTEM",,,,,Strike,Slow,Excellent,,,Doppelgangers will launch flares instead of damaging drones.,,,,,4358
+Nanocloud Caster Fake,edshipyard_wizard_fake,2,,1500,1000,,150,300,5,25,,,,,ENERGY,0,,0,10,3,0.1,0,30,5,5,,250,500,10,250,"STRIKE,USE_VS_FRIGATES,GUIDED_POOR,ANTI_FTR,PD,PD_ALSO,SYSTEM",,,,,Anti Missile (Area),Slow,Excellent,,,Each flare has a %s chance to divert nearby missiles.,50%,,,,4358
+Nanocloud Whisper,edshipyard_wisp,2,,,500,,10,300,,,,,0,,ENERGY,0,0,0,0.1,3,0.1,90,90,0,0,,300,200,7,1,SYSTEM,,,,,,,,,,,,,,,38
+Blinker Light,edshipyard_BLINKER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Blinker Control,edshipyard_CONTROLBLINKER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Tyrant Eye,edshipyard_EYE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Hangar Path,edshipyard_PATH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Drone Portal,edshipyard_WINDOW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Mechanical Claws,edshipyard_CLAW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Charge Bar,edshipyard_WURGBAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Terrier Arms,edshipyard_Terrier_Arms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Thruster,edshipyard_thruster,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Steam Release,edshipyard_steam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Carolina Cylinder,edshipyard_Cylinder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Carolina Loader,edshipyard_Loader,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
+Carolina Reaper,edshipyard_CR,3,,25000,1000,,4000,,1000,0,0,6,,,HIGH_EXPLOSIVE,3200,,0.5,4.5,1,,,,,,,1500,,,1000,SYSTEM,,,,,Anti Armor,,,,,,,,,,8
+Hellborn Cannon,edshipyard_BIGGUN,3,,9000,1500,,75,,50,0,0,,,,HIGH_EXPLOSIVE,750,,0,0,1,0,2,10,5,10,,500,,,400,SYSTEM,,,,,Anti Armor,,,,,,,,,,8
+Proximity Mine,edshipyard_Fragbomb,0,,100,600,,400,,10,0,1,2,0.1,,FRAGMENTATION,0,,0,1,1,,0,0,0,0,,10,300,30,150,"DO_NOT_AIM, ANTI_FTR, PD_ONLY, SYSTEM",he0,,,,Anti Fighter,,,,,,,,,TRUE,3.2
+Yapper Gun,edshipyard_Yapper,0,,,450,,20,,1,30,0,10,2,1,ENERGY,2,,,0.1,1,0,5,20,2,4,,900,,,,SYSTEM,,,,,Strike,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dust Missile Single Burst,edshipyard_0_Dust,1,0.5,325,1500,,150,0,15,30,0,3,,,HIGH_EXPLOSIVE,0,0,0,0.7,3,0.1,0.2,0.4,0,,,275,150,15,35,"DO_NOT_AIM, STRIKE, USE_VS_FRIGATES","utility1, missile0, strike, ed_uweapon_bp",,ED Shipyard,,Flanker,Fast,Excellent,,,,,,,TRUE,6102
+Dust Missile Light Launcher,edshipyard_1_Dust,1,0.5,750,3000,,150,0,15,30,3,16,,,HIGH_EXPLOSIVE,0,0,0,14.6,4,0.1,0.2,0.4,0,,,275,150,15,35,"DO_NOT_AIM, STRIKE, USE_VS_FRIGATES","utility1, missile1, strike, ed_cweapon_bp",,ED Shipyard,,Flanker,Fast,Excellent,,,,,,,TRUE,6102
+Dust Missile Heavy Launcher,edshipyard_2_Dust,2,0.5,1500,3000,,150,0,15,30,7,40,,,HIGH_EXPLOSIVE,0,0,0,14.2,8,0.1,0.2,0.4,0,,,275,150,15,35,"CONSERVE_1, DO_NOT_AIM, HEATSEEKER, STRIKE, USE_VS_FRIGATES","utility3, missile3, strike, ed_cweapon_bp",,ED Shipyard,,Flanker,Fast,Excellent,,,,,,,TRUE,6102
+Dust Missile Mega Launcher,edshipyard_3_Dust,2,0.5,4500,3000,,150,0,15,30,15,96,,,HIGH_EXPLOSIVE,0,0,0,13.4,16,0.1,0.2,0.4,0,,,275,150,15,35,"CONSERVE_1, DO_NOT_AIM, HEATSEEKER, STRIKE","utility4, missile5, strike, ed_cweapon_bp",,ED Shipyard,,Flanker,Fast,Excellent,,,,,,,TRUE,6102
+Dust Missile Grand Barrage,edshipyard_4_Dust,3,0.15,12000,3000,,150,0,15,30,31,320,,,HIGH_EXPLOSIVE,0,0,0,12.8,32,0.1,0.2,0.4,0,,,275,150,15,35,"CONSERVE_1, DO_NOT_AIM, HEATSEEKER, STRIKE","utility5, missile9, strike, ed_uweapon_bp",,ED Shipyard,,Flanker,Fast,Excellent,,,,,,,TRUE,6102
+Dense Neutrino Beam,edshipyard_Rad_m,2,,2800,1000,200,,200,10,100,14,,,,FRAGMENTATION,,70,0.25,0.5,,,,,,,2400,,,,,PD,"pd14, beam6, ed_uweapon_bp",,ED Shipyard,,Point Defense,,,,,,,,,,19.5
+Wisp Launcher,edshipyard_Wisp_Launcher,1,,250,600,,10,20,,90,1,2,0.10,1,ENERGY,,,,2,1,0,5,30,5,5,,375,75,2,1,"PD, DO_NOT_AIM","utility2, pd1, pd, ed_uweapon_bp",,ED Shipyard,,Point Defense,Slow,Poor,,,,,,,TRUE,6102
+Light Shield Breaker,edshipyard_SB1,3,0.3,750,450,,12,,10,20,5,24,4,8,KINETIC,10,,,0.33,1,0,1,35,10,3,,2000,,,10,"STRIKE,USE_VS_FRIGATES","kinetic6, ed_cweapon_bp",,ED Shipyard,,Anti Shield,,,,,"Each pellet can deal up to 10 Energy extra damage based on enemy flux.",,,,,
+Heavy Shield Breaker,edshipyard_SB2,3,0.3,2250,450,,14,,10,20,10,42,7,14,KINETIC,11,,,0.33,1,0,1,40,10,3,,2000,,,10,"STRIKE,USE_VS_FRIGATES","kinetic10, ed_cweapon_bp",,ED Shipyard,,Anti Shield,,,,,"Each pellet can deal up to 10 Energy extra damage based on enemy flux.",,,,,
+Mega Shield Breaker,edshipyard_SB3,3,0.3,6750,450,,16,,10,20,20,60,10,20,KINETIC,12,,,0.33,1,0,1,45,10,3,,2000,,,10,"STRIKE,USE_VS_FRIGATES","kinetic14, ed_cweapon_bp",,ED Shipyard,,Anti Shield,,,,,"Each pellet can deal up to 10 Energy extra damage based on enemy flux.",,,,,
+Ricochet Pellet Gun,edshipyard_SC0,1,0.25,125,750,,50,,1,30,1,,,,FRAGMENTATION,10,,,0.33,1,0,1,5,1,1,,1000,,,1,PD,"pd1, ed_uweapon_bp",,ED Shipyard,,Point Defense,,,,,"Each bullet has 75% chance to ricochet on hit on hull or armor.",,,,,
+Plink Gun,edshipyard_Plink,1,0.25,60,900,5,10,10,1,30,0,,,,ENERGY,10,,,2,1,0,1,5,1,1,,300,,,1,,"energy0, ed_uweapon_bp",,ED Shipyard,,Supression,,,,,,,,,,
+Light Scatter Cannon,edshipyard_SC1,2,0.5,500,550,,50,,1,30,4,,,,FRAGMENTATION,10,,,1,1,0,5,15,5,5,,1000,,,1,PD,"pd6, ed_cweapon_bp",,ED Shipyard,,Point Defense (Area),,,,,"Each bullet has 75% chance to ricochet on hit on hull or armor.",,,,,
+Heavy Scatter Cannon,edshipyard_SC2,2,0.5,1500,650,,50,,1,30,8,,,,FRAGMENTATION,10,,,1,1,0,5,25,5,5,,1000,,,1,PD,"pd12, ed_cweapon_bp",,ED Shipyard,,Point Defense (Area),,,,,"Each bullet has 75% chance to ricochet on hit on hull or armor.",,,,,
+Mega Scatter Cannon,edshipyard_SC3,2,0.5,4500,750,,50,,1,30,16,,,,FRAGMENTATION,10,,,1,1,0,5,35,5,5,,1000,,,1,PD,"pd18, ed_cweapon_bp",,ED Shipyard,,Point Defense (Area),,,,,"Each bullet has 75% chance to ricochet on hit on hull or armor.",,,,,
+Magna Blaster,edshipyard_MG,3,0.2,10000,1000,,1000,1500,0,10,31,,,,ENERGY,1350,,1,4,1,,,,,,,1500,,,10000,"STRIKE,USE_VS_FRIGATES","energy17, ed_uweapon_bp",,ED Shipyard,,Support,,,,,"The projectile interacts with shields pulling nearby missiles, enemy ships and asteroids.",,,,,
+Cluster Cannon,edshipyard_CC,3,0.2,10000,1200,,500,0,1000,10,29,80,,,KINETIC,500,,0,4.5,3,0.5,,,,,,1200,,,10000,"STRIKE,CONSERVE_3","he10, kinetic15, ed_uweapon_bp",,ED Shipyard,,Supression,,,,,"The projectile splits on impact releasing 3 fragmentation mines that explode for 400 damage.",,,,,
+Light Grapeshot Cannon,edshipyard_GS1,3,0.3,850,700,,225,0,50,20,7,,,,HIGH_EXPLOSIVE,300,,0,3,1,0,,,,,,1000,,,1000,"STRIKE,USE_VS_FRIGATES,CONSERVE_3","he5, ed_cweapon_bp",,ED Shipyard,,Finisher,,,,,"Launches 6 ricochet pellets that deal 50 frag damage on impact each.",,,,,
+Heavy Grapeshot Cannon,edshipyard_GS2,3,0.3,2850,800,,450,0,100,18,13,,,,HIGH_EXPLOSIVE,600,,0,3,1,0,,,,,,1000,,,1000,"STRIKE,USE_VS_FRIGATES,CONSERVE_4","he10, ed_cweapon_bp",,ED Shipyard,,Finisher,,,,,"Launches 12 ricochet pellets that deal 50 frag damage on impact each.",,,,,
+Mega Grapeshot Cannon,edshipyard_GS3,3,0.3,7850,900,,900,0,200,15,25,,,,HIGH_EXPLOSIVE,1200,,0,3,1,0,,,,,,1000,,,1000,"STRIKE,USE_VS_FRIGATES,CONSERVE_5","he15, ed_cweapon_bp",,ED Shipyard,,Finisher,,,,,"Launches 24 ricochet pellets that deal 50 frag damage on impact each.",,,,,
+Light Fire Lance,edshipyard_FL1,3,0.5,500,1000,250,,,0,20,5,,,,HIGH_EXPLOSIVE,,300,0.5,1,1,4,,,,,10000,,,,,,"he6, beam5, ed_cweapon_bp",,ED Shipyard,,Anti Armor,,,,,,,,,,18
+Heavy Fire Lance,edshipyard_FL2,3,0.25,2000,1000,500,,,0,20,11,,,,HIGH_EXPLOSIVE,,600,0.5,1,1,4,,,,,10000,,,,,,"he13, beam10, ed_cweapon_bp",,ED Shipyard,,Anti Armor,,,,,,,,,,20
+Mega Fire Lance,edshipyard_FL3,3,0.125,8000,1000,1000,,,0,20,22,,,,HIGH_EXPLOSIVE,,1200,0.5,1,1,4,,,,,10000,,,,,,"he19, beam15, ed_cweapon_bp",,ED Shipyard,,Anti Armor,,,,,,,,,,27

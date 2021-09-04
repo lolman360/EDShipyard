@@ -1,0 +1,124 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	
+	"combatSmall":{		
+		"edshipyard_collie_rescue":5,
+		"edshipyard_chihuahua_assault":10,
+		"edshipyard_chihuahua_beamer":10,
+		"edshipyard_wolfhound_assault":10,
+		"edshipyard_wolfhound_pirate":10,
+	},
+	"combatMedium":{
+		"edshipyard_basset_beamer":9,
+		"edshipyard_pomeranian_top":8,
+		"edshipyard_pomeranian_dust":6,
+		"edshipyard_pomeranian_beam":2,
+		"edshipyard_beagle_assault":10,
+		"edshipyard_beauceron_pirate":2,
+		"edshipyard_shiba_assault":4,
+	},
+	"combatLarge":{
+		"edshipyard_rottweiler_assault":10,
+		"edshipyard_carolina_gunner":5,
+		"edshipyard_carolina_pirate":3,
+		"edshipyard_saluki_assault":4,
+		"edshipyard_saluki_beam":2,
+	},
+	"combatCapital":{
+		"edshipyard_leonberger_assault":6,
+		"edshipyard_dobermann_variant":10,
+		"edshipyard_dobermann_pirate":2,
+		"edshipyard_groenendael_dust":8,
+		"edshipyard_retriever_pirate":3,
+	},
+	
+	"combatFreighterSmall":{
+		"edshipyard_wolfhound_assault":6,
+		"edshipyard_wolfhound_pirate":4,
+	},
+	"combatFreighterMedium":{
+		
+	},
+	"combatFreighterLarge":{
+		"edshipyard_newfoundland_warfreighter":5,
+	},
+	
+	"civilianRandom":{
+		"edshipyard_dachshund_variant":8,
+		"edshipyard_chin_smuggler":1,
+		"edshipyard_wolfhound_assault":1,
+		"edshipyard_bernese_tug":5,
+	},
+
+	# carriers
+	"carrierSmall":{
+		"edshipyard_collie_rescue":8,
+	},
+	"carrierMedium":{
+		"edshipyard_corgi_variant":8,
+		"edshipyard_corgi_dust":4,
+		"edshipyard_dachshund_pirate":8,
+		"edshipyard_malinois_support":8,
+		"edshipyard_beauceron_pirate":8,
+		"edshipyard_beauceron_rescue":10,
+	},
+	"carrierLarge":{
+		"edshipyard_groenendael_variant":8,
+		"edshipyard_wurgandal_worldeater":1,
+		"edshipyard_retriever_rescue":6,
+		"edshipyard_dobermann_pirate":8,
+		"edshipyard_retriever_pirate":6,
+	},
+
+	# phase ships
+	"phaseSmall":{
+		"edshipyard_bischon_assault":8,
+		"edshipyard_chin_smuggler":1,
+		"edshipyard_redbone_assault":2,
+	},
+	"phaseMedium":{
+		"edshipyard_shiba_beamer":4,
+		"edshipyard_basenji_explorer":2,		
+	},
+	"phaseLarge":{
+		"edshipyard_saluki_assault":3,
+		"edshipyard_saluki_beam":2,
+	},
+	"phaseCapital":{
+		"edshipyard_leonberger_assault":2,
+	},
+
+	# freighters and such
+	"freighterSmall":{
+		"edshipyard_chin_smuggler":2,		
+	},
+	"freighterMedium":{
+		"edshipyard_dachshund_variant":10,
+	},
+	"freighterLarge":{
+		"edshipyard_newfoundland_warfreighter":1,
+		"edshipyard_dalmatian_phase":5,
+	},
+	
+	"tankerSmall":{
+		
+	},
+	"tankerMedium":{
+		"edshipyard_basenji_explorer":4,
+	},
+	"tankerLarge":{
+		"edshipyard_bernard_variant":8,
+	},
+	
+	"personnelSmall":{
+		
+	},
+	"personnelMedium":{
+		
+	},
+	"personnelLarge":{
+		
+	},
+	
+}

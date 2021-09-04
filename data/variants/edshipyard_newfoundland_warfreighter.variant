@@ -1,0 +1,70 @@
+{
+  "displayName": "War Freighter",
+  "fluxCapacitors": 45,
+  "fluxVents": 50,
+  "goalVariant": true,
+  "hullId": "edshipyard_newfoundland",
+  "hullMods": [
+    "auxiliarythrusters",
+    "magazines",
+    "turretgyros"
+  ],
+  "modules": [
+    {
+      "SEGMENT5": "edshipyard_newfoundland_combatfreighter_standard"
+    },
+    {
+      "SEGMENT4": "edshipyard_newfoundland_combatfreighter_standard"
+    },
+    {
+      "SEGMENT3": "edshipyard_newfoundland_combatfreighter_standard"
+    },
+    {
+      "SEGMENT2": "edshipyard_newfoundland_combatfreighter_standard"
+    },
+    {
+      "SEGMENT1": "edshipyard_newfoundland_combatfreighter_standard"
+    }
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "edshipyard_newfoundland_warfreighter",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "edshipyard_SB2",
+        "WS0006": "edshipyard_SB2",
+        "WS0007": "edshipyard_SB3",
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0008": "edshipyard_1_Dust",
+        "WS0009": "edshipyard_1_Dust",
+        "WS0010": "edshipyard_1_Dust",
+        "WS0011": "edshipyard_1_Dust"
+	  }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "edshipyard_SC2",
+        "WS0002": "edshipyard_SC3",
+	  }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "edshipyard_SC3",
+        "WS0004": "edshipyard_SC2",
+	  }
+    }
+  ],
+  "wings": []
+}

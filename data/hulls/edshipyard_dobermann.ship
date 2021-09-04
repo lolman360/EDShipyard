@@ -1,0 +1,308 @@
+{
+  "bounds": [
+    215,
+    -20,
+    174,
+    -78,
+    -171,
+    -78,
+    -222,
+    -21,
+    -222,
+    21,
+    -171,
+    78,
+    174,
+    78,
+    215,
+    20
+  ],
+  "builtInMods": [
+    "hbi",
+    "armoredweapons"
+  ],
+  "builtInWeapons": {
+    "BG001": "edshipyard_BIGGUN",
+    "BG002": "edshipyard_BIGGUN",
+    "BG003": "edshipyard_BIGGUN",
+    "BG004": "edshipyard_BIGGUN",
+    "Thruster_01": "edshipyard_thruster",
+    "Thruster_02": "edshipyard_thruster",
+    "Thruster_03": "edshipyard_thruster",
+    "Thruster_04": "edshipyard_thruster"
+  },
+  "center": [
+    86,
+    228
+  ],
+  "collisionRadius": 266.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 25,
+      "length": 93,
+      "location": [
+        -209.5,
+        40
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 25
+    },
+    {
+      "angle": -180,
+      "contrailSize": 24,
+      "length": 92,
+      "location": [
+        -209.5,
+        -40
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 24
+    },
+    {
+      "angle": 180,
+      "contrailSize": 54,
+      "length": 177,
+      "location": [
+        -225,
+        -0
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 54
+    }
+  ],
+  "height": 456,
+  "hullId": "edshipyard_dobermann",
+  "hullName": "Dobermann",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 251,
+  "spriteName": "graphics/ships/edshipyard_dobermann.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 90,
+      "arc": 20,
+      "id": "WS0001",
+      "locations": [
+        0,
+        55.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 20,
+      "id": "WS0002",
+      "locations": [
+        -84,
+        55.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 20,
+      "id": "WS0003",
+      "locations": [
+        84,
+        55.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 15,
+      "id": "BG001",
+      "locations": [
+        126,
+        -87.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 15,
+      "id": "BG002",
+      "locations": [
+        42,
+        -87.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 15,
+      "id": "BG003",
+      "locations": [
+        -42,
+        -87.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 15,
+      "id": "BG004",
+      "locations": [
+        -126,
+        -87.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "M004",
+      "locations": [
+        -126,
+        56
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "M003",
+      "locations": [
+        -42,
+        56
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "M002",
+      "locations": [
+        42,
+        56
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "M001",
+      "locations": [
+        126,
+        56
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": -90,
+      "arc": 0,
+      "id": "Thruster_01",
+      "locations": [
+        -169,
+        -78
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -90,
+      "arc": 0,
+      "id": "Thruster_02",
+      "locations": [
+        170,
+        -78
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "Thruster_03",
+      "locations": [
+        170,
+        78
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "Thruster_04",
+      "locations": [
+        -170,
+        78.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 270,
+      "arc": 150,
+      "id": "WS0004",
+      "locations": [
+        -84,
+        -15
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 270,
+      "arc": 150,
+      "id": "WS0006",
+      "locations": [
+        1,
+        -15
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 270,
+      "arc": 150,
+      "id": "WS0008",
+      "locations": [
+        84,
+        -15
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    }
+  ],
+  "width": 172
+}

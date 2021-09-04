@@ -1,0 +1,420 @@
+{
+  "bounds": [
+    316.5,
+    -21,
+    316,
+    -37.5,
+    302,
+    -57.5,
+    263.5,
+    -83.5,
+    251.5,
+    -84,
+    244.5,
+    -72,
+    220,
+    -83,
+    207.5,
+    -85.5,
+    201,
+    -72.5,
+    175.5,
+    -82,
+    166.5,
+    -84,
+    159,
+    -73.5,
+    163,
+    -64,
+    133,
+    -67,
+    88.5,
+    -83.5,
+    47.5,
+    -86.5,
+    -18.5,
+    -82,
+    -27.5,
+    -49.5,
+    -27.5,
+    49.5,
+    -18.5,
+    82,
+    47.5,
+    86.5,
+    88.5,
+    83.5,
+    133,
+    67,
+    163,
+    64,
+    159,
+    73.5,
+    166.5,
+    84,
+    175.5,
+    82,
+    201,
+    72.5,
+    207.5,
+    85.5,
+    220,
+    83,
+    244.5,
+    72,
+    251.5,
+    84,
+    263.5,
+    83.5,
+    302,
+    57.5,
+    316,
+    37.5,
+    316.5,
+    21
+  ],
+  "builtInMods": [
+    "edshipyard_train_locomotive",
+    "advancedcore"
+  ],
+  "builtInWeapons": {
+    "Stage1A": "edshipyard_steam",
+    "Stage1B": "edshipyard_steam",
+    "Stage2A": "edshipyard_steam",
+    "Stage2B": "edshipyard_steam"
+  },
+  "center": [
+    88,
+    31
+  ],
+  "collisionRadius": 401,
+  "engineSlots": [
+    {
+      "angle": 145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        249,
+        78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    },
+    {
+      "angle": -145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        249,
+        -78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    },
+    {
+      "angle": 145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        205,
+        78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    },
+    {
+      "angle": -145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        205,
+        -78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    },
+    {
+      "angle": 145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        161,
+        78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    },
+    {
+      "angle": -145,
+      "contrailSize": 30,
+      "length": 50,
+      "location": [
+        161,
+        -78
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 30
+    }
+  ],
+  "height": 350,
+  "hullId": "edshipyard_newfoundland",
+  "hullName": "Newfoundland",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    236,
+    -0
+  ],
+  "shieldRadius": 148,
+  "spriteName": "graphics/ships/edshipyard_newfoundland.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "SEGMENT1",
+      "locations": [
+        -11,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "SEGMENT2",
+      "locations": [
+        -233,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "SEGMENT3",
+      "locations": [
+        -455,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "SEGMENT4",
+      "locations": [
+        -677,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "SEGMENT5",
+      "locations": [
+        -899,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 90,
+      "arc": 90,
+      "id": "WS0002",
+      "locations": [
+        27,
+        53
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -90,
+      "arc": 90,
+      "id": "WS0003",
+      "locations": [
+        27,
+        -53
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 90,
+      "arc": 90,
+      "id": "WS0001",
+      "locations": [
+        82.5,
+        46.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -90,
+      "arc": 90,
+      "id": "WS0004",
+      "locations": [
+        82.5,
+        -46.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 0,
+      "arc": 45,
+      "id": "WS0005",
+      "locations": [
+        205.5,
+        42.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": -0,
+      "arc": 45,
+      "id": "WS0006",
+      "locations": [
+        205.5,
+        -42.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0007",
+      "locations": [
+        299.5,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": -180,
+      "arc": 45,
+      "id": "WS0010",
+      "locations": [
+        114,
+        20
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 180,
+      "arc": 45,
+      "id": "WS0011",
+      "locations": [
+        114,
+        -20
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 180,
+      "arc": 45,
+      "id": "WS0008",
+      "locations": [
+        158,
+        -20
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -180,
+      "arc": 45,
+      "id": "WS0009",
+      "locations": [
+        158,
+        20
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -120,
+      "arc": 0,
+      "id": "Stage1B",
+      "locations": [
+        85.5,
+        -84.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 120,
+      "arc": 0,
+      "id": "Stage1A",
+      "locations": [
+        85.5,
+        84.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -120,
+      "arc": 0,
+      "id": "Stage2B",
+      "locations": [
+        17.5,
+        -86
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 120,
+      "arc": 0,
+      "id": "Stage2A",
+      "locations": [
+        17.5,
+        86
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 176
+}

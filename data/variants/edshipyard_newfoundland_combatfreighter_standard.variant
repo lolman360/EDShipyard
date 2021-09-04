@@ -1,0 +1,41 @@
+{
+  "displayName": "Combat",
+  "fluxCapacitors": 0,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "edshipyard_newfoundland_combatfreighter",
+  "hullMods": [
+    "heavyarmor",
+    "turretgyros",
+    "armoredweapons"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "edshipyard_newfoundland_combatfreighter_standard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "heavyac",
+        "WS0002": "heavyac",
+        "WS0003": "heavyac",
+        "WS0004": "heavyac",
+        "WS0005": "heavyac",
+        "WS0006": "heavyac",
+        "WS0009": "lrpdlaser"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0010": "lrpdlaser"
+      }
+    }
+  ],
+  "wings": [
+    "edshipyard_affenpinscher_wing"
+  ]
+}

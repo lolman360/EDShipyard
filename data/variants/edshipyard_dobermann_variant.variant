@@ -1,0 +1,51 @@
+{
+  "displayName": "Broadside",
+  "fluxCapacitors": 0,
+  "fluxVents": 35,
+  "goalVariant": true,
+  "hullId": "edshipyard_dobermann",
+  "hullMods": [
+    "dedicated_targeting_core",
+    "hardenedshieldemitter",
+    "magazines",
+    "extendedshieldemitter"
+  ],
+  "modules": [
+    {
+      "M004": "edshipyard_dobermann_shieldmodule_variant"
+    },
+    {
+      "M003": "edshipyard_dobermann_shieldmodule_variant"
+    },
+    {
+      "M002": "edshipyard_dobermann_shieldmodule_variant"
+    },
+    {
+      "M001": "edshipyard_dobermann_shieldmodule_variant"
+    }
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "edshipyard_dobermann_variant",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "edshipyard_CC",
+        "WS0002": "edshipyard_CC",
+        "WS0003": "edshipyard_CC"
+      }
+    },
+	{
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0004": "edshipyard_SC0",
+        "WS0006": "edshipyard_SC0",
+        "WS0008": "edshipyard_SC0"
+      }
+    }
+  ],
+  "wings": []
+}

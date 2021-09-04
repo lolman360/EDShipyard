@@ -1,0 +1,49 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
+
+Expanded Explosion,edshipyard_expanded_explosion,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.ExpandedExplosion,Expanded explosion radius and damage.,,graphics/hullmods/expanded_explosion.png
+
+Safety Removal,edshipyard_safetyremoval,,,ED Shipyards,,,,,TRUE,,0,0,0,0,data.hullmods.SafetyRemoval,"Completely removing safety protocols increases the ship's top speed in combat by %s/%s/%s/%s (depending on ship size, with a corresponding increase in acceleration) and allows the zero-flux engine boost to take effect regardless of flux level.
+
+Drastically reduces weapon ranges past %s units.
+
+Can not be installed on civilian ships. Incompatible with Safety Override.","Drastic improvement in performance.",graphics/hullmods/safety_removal.png
+
+Greater Drive Field Stabilizer,edshipyard_greater_drive_field_stabilizer,,,ED Shipyards,,,,,TRUE,,0,0,0,0,data.hullmods.GreatDriveFieldStabilizer,"Stabilizes the fleet's drive bubble, increasing the maximum burn of the fleet by %s. The effect of multiple stabilizers is cumulative.
+
+Increases the ship's sensor profile by %s.",Reduces fleetwide fuel use.,graphics/hullmods/great_augmented_drive_field.png
+
+Small Drone Hangar,edshipyard_small_drone_hangar,,,ED Shipyards,"special",Fighters,5000,,TRUE,,0,0,0,0,data.hullmods.SmallDroneHangar,"The fighter bays on this craft are very cramped by design, they can house only small drones. This ship does not support any crewed fighter wings or that cost more than 12 ordinance points.
+
+Fighters outside these limitations will have a chance to malfunction based on how far from the limitations they are.",Drone Exclusive bays.,graphics/hullmods/drone_hangar.png
+
+Point Defense Specialization,edshipyard_pd_only_weapons,,,ED Shipyards,"special, offensive",Weapons,5000,,TRUE,,0,0,0,0,data.hullmods.PDOnlyWeapons,"All weapon systems and turret mounts have been modified to only target small and fast targets, restricting this ship to only Point Defense and Anti-Fighter Weapons, all non-PD weapons have a large chance to malfunction.
+
+Range of PD weapons is increased by %s and weapon turn rate increased by %s.",Point Defense Only Weapons.,graphics/hullmods/pd_weapons_only.png
+
+Tyrant Maw Bombardment,edshipyard_tyrantmaw_bombardment,,,ED Shipyards,,,,,TRUE,,0,0,0,0,data.hullmods.WurgandalBombard,"Manifests orbital supremacy. Fires the Tyrant Maw and the modular weapons with Tyrant Eye active dealing massive damage to ground structures. Increases the effective strength of planetary raids by %s, up to the total number of marines in the fleet. Reduces the fuel cost of a bombardment operation by %s units.",Improves effectiveness of raids. Greatly reduces fuel cost of bombardment.,graphics/hullmods/wurgandal_bombard.png
+
+Massive Hull,edshipyard_wurgandal_massivehull,,,ED Shipyards,,,,,TRUE,,0,0,0,0,data.hullmods.WurgandalMassiveHull,"This ship is extremely large, affording both a much larger array of sensors and a heavy sensor profile. Increases sensor strength by %s and sensor profile by %s. Due to the immense inertia of this ship the speed boost of zero flux speed is lowered to %s of the value it would have otherwise",Increases sensor strength and profile.,graphics/hullmods/wurgandal_massive.png
+
+Shield Incompatible,edshipyard_no_shields,,,ED Shipyards,"shields, defensive",Shields,5000,,TRUE,,0,0,0,0,data.hullmods.NoShields,"This ship or module is not compatible with shields, due to it's base design or because of the proximity of other modules.",Shield Incompatible.,graphics/hullmods/no_shield.png
+
+Hangar Incompatible,edshipyard_no_hangar,,,ED Shipyards,"special",Fighters,5000,,TRUE,,0,0,0,0,data.hullmods.NoHangar,"This ship or module is not compatible with improvised hangars, the hull cannot be cut to open a fighter bay without serious structural problems.",Hangar Incompatible.,graphics/hullmods/no_hangar.png
+
+Frontal Locked Shields,edshipyard_no_omni,,,ED Shipyards,"shields, defensive",Shields,5000,,TRUE,,0,0,0,0,data.hullmods.NoOmni,"This ship or module's shield generators cannot spin and are locked at frontal projection, due to it's base design or because of the proximity of other modules.",Frontal Locked Shields.,graphics/hullmods/no_omni.png
+
+Field Shield Generator,edshipyard_field_shield,,,ED Shipyards,"shields, defensive",Shields,5000,,TRUE,,0,0,0,0,data.hullmods.FieldShield,"This ship uses an external generator to project a large shield with 1000 range radius, The shield allows allied ships to enter and is perfect for protecting a group of small ships. While enemy ships can also enter the Field, their projectiles will be absorbed by the shield instantly as they are shot.
+
+The main Field Generator is located at the front module, if this module is destroyed the shields cannot operate. While the shields are active all hard flux will be transfered to the main ship, Soft flux will be managed by the shield module, if either overload the system shuts down.
+
+Due to the unique technology used all common shield hullmods are incompatible with this ship. This ship can vent hard flux passively while the system is on.",Field Shield Generators.,graphics/hullmods/field_shield.png
+
+Sinuous Structure,edshipyard_train_locomotive,,,ED Shipyards,,,,,TRUE,,0,0,0,0,data.hullmods.TrainLocomotive,"Different from most modular ships the Newfoundland has flexible connections between modules.
+
+Each connected module changes the attributes of the main ship.
+
+If a segment of this ship is destroyed, the segments behind it will also be lost.",Modular ship control,graphics/hullmods/train_locomotive.png
+
+Rescue Drone,edshipyard_rescue_drone_explanation,,,ED Shipyards,"special",Special,,,TRUE,,0,0,0,0,data.hullmods.Dummy_Hullmod,"This ship has an internal drone controller module, it is capable of creating and controlling a Rescue Drone, the drone will attempt to rescue friendly Frigates and Destroyers by swapping places with them.",Rescue Drone Controller.,graphics/hullmods/edshipyard_guardian_orb.png
+
+Detonator Drone,edshipyard_detonator_drone_explanation,,,ED Shipyards,"special",Special,,,TRUE,,0,0,0,0,data.hullmods.Dummy_Hullmod,"This ship has an internal drone controller module, it is capable of creating and controlling a Detonator Drone, the drone will attempt to get close to enemy ships before exploding for up to 2500 High Explosive damage.",Detonator Drone Controller.,graphics/hullmods/edshipyard_bomber_orb.png
+
+Illusion Field,edshipyard_doppelfield,,,,,,,,TRUE,,0,0,0,0,data.hullmods.Illusion,"The ship is able to run a signature scrambler for extended periods of time, camouflaging the ship as an asteroid reducing its effective sensor profile to zero.",Reduces sensor profile.,graphics/hullmods/doppel_field.png

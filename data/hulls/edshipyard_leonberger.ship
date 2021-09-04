@@ -1,0 +1,556 @@
+{
+  "bounds": [
+    107,
+    -30.5,
+    137,
+    -38.5,
+    130,
+    -86,
+    135,
+    -135,
+    108.5,
+    -158,
+    82.5,
+    -156,
+    50,
+    -135.5,
+    26,
+    -147.5,
+    1,
+    -138.5,
+    1.5,
+    -102.5,
+    -19.5,
+    -83.5,
+    -60,
+    -76.5,
+    -112,
+    -120,
+    -137,
+    -129.5,
+    -163,
+    -113.5,
+    -178,
+    -21.5,
+    -178,
+    21.5,
+    -163,
+    113.5,
+    -137,
+    129.5,
+    -112,
+    120,
+    -60,
+    76.5,
+    -19.5,
+    83.5,
+    1.5,
+    102.5,
+    1,
+    138.5,
+    26,
+    147.5,
+    50,
+    135.5,
+    82.5,
+    156,
+    108.5,
+    158,
+    135,
+    135,
+    130,
+    86,
+    137,
+    38.5,
+    107,
+    30.5
+  ],
+  "builtInMods": [
+    "high_maintenance",
+    "phasefield",
+    "unstable_injector",
+    "edshipyard_safetyremoval"
+  ],
+  "builtInWeapons": {
+    "Thruster02": "edshipyard_thruster",
+    "WS0009": "edshipyard_thruster"
+  },
+  "center": [
+    160,
+    181.5
+  ],
+  "collisionRadius": 222.5,
+  "engineSlots": [
+    {
+      "angle": 163.5,
+      "contrailSize": 7,
+      "length": 31.5,
+      "location": [
+        -167.5,
+        107.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 7
+    },
+    {
+      "angle": -163.5,
+      "contrailSize": 7,
+      "length": 31.5,
+      "location": [
+        -167.5,
+        -107.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 18,
+      "length": 105,
+      "location": [
+        -176,
+        36
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 18
+    },
+    {
+      "angle": -180,
+      "contrailSize": 18,
+      "length": 105,
+      "location": [
+        -176,
+        -36
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 18
+    },
+    {
+      "angle": 180,
+      "contrailSize": 22,
+      "length": 133,
+      "location": [
+        -178.5,
+        15
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 22
+    },
+    {
+      "angle": -180,
+      "contrailSize": 22,
+      "length": 133,
+      "location": [
+        -178.5,
+        -15
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 22
+    },
+    {
+      "angle": 161.5,
+      "contrailSize": 14.169701,
+      "length": 81.123703,
+      "location": [
+        2,
+        136.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 14.169701
+    },
+    {
+      "angle": -161.5,
+      "contrailSize": 14.169701,
+      "length": 81.123703,
+      "location": [
+        2,
+        -136.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 14.169701
+    },
+    {
+      "angle": 180,
+      "contrailSize": 13,
+      "length": 63,
+      "location": [
+        -174,
+        72
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 13
+    },
+    {
+      "angle": -180,
+      "contrailSize": 13,
+      "length": 63,
+      "location": [
+        -174,
+        -72
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 13
+    },
+    {
+      "angle": 180,
+      "contrailSize": 12,
+      "length": 57.5,
+      "location": [
+        -0.5,
+        116
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 12
+    },
+    {
+      "angle": -180,
+      "contrailSize": 12,
+      "length": 57.5,
+      "location": [
+        -0.5,
+        -116
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 12
+    },
+    {
+      "angle": 173,
+      "contrailSize": 6.876187,
+      "length": 44.412041,
+      "location": [
+        -167.5,
+        98.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 6.876187
+    },
+    {
+      "angle": -173,
+      "contrailSize": 6.876187,
+      "length": 44.412041,
+      "location": [
+        -167.5,
+        -98.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 6.876187
+    },
+    {
+      "angle": 180,
+      "contrailSize": 8,
+      "length": 55,
+      "location": [
+        -168,
+        89
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 8
+    },
+    {
+      "angle": -180,
+      "contrailSize": 8,
+      "length": 55,
+      "location": [
+        -168,
+        -89
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 8
+    },
+    {
+      "angle": 172,
+      "contrailSize": 11.646927,
+      "length": 70.40126,
+      "location": [
+        0.5,
+        126.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 11.646927
+    },
+    {
+      "angle": -172,
+      "contrailSize": 11.646927,
+      "length": 70.40126,
+      "location": [
+        0.5,
+        -126.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 11.646927
+    },
+    {
+      "angle": 180,
+      "contrailSize": 13,
+      "length": 79,
+      "location": [
+        -173,
+        57
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 13
+    },
+    {
+      "angle": -180,
+      "contrailSize": 13,
+      "length": 79,
+      "location": [
+        -173,
+        -57
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 13
+    },
+    {
+      "angle": -150,
+      "contrailSize": 16.485918,
+      "length": 96.277222,
+      "location": [
+        6.5,
+        -144.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 16.485918
+    },
+    {
+      "angle": 150,
+      "contrailSize": 16.485918,
+      "length": 96.277222,
+      "location": [
+        6.5,
+        144.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "ED_SHIPYARD",
+      "width": 16.485918
+    }
+  ],
+  "height": 320,
+  "hullId": "edshipyard_leonberger",
+  "hullName": "Leonberger",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 209.5,
+  "spriteName": "graphics/ships/edshipyard_leonberger.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 001",
+      "locations": [
+        90.5,
+        16
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 002",
+      "locations": [
+        90.5,
+        -16
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -180,
+      "arc": 240,
+      "id": "WS002",
+      "locations": [
+        -128.5,
+        30
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -180,
+      "arc": 240,
+      "id": "WS0002",
+      "locations": [
+        -131.5,
+        -30
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -135,
+      "arc": 240,
+      "id": "WS0001",
+      "locations": [
+        -133.5,
+        -89
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 135,
+      "arc": 240,
+      "id": "WS0003",
+      "locations": [
+        -133.5,
+        89
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 240,
+      "id": "WS0004",
+      "locations": [
+        65.5,
+        99
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 240,
+      "id": "WS0005",
+      "locations": [
+        65.5,
+        -99
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 135,
+      "arc": 240,
+      "id": "WS0006",
+      "locations": [
+        76.5,
+        130
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -135,
+      "arc": 240,
+      "id": "WS0007",
+      "locations": [
+        76.5,
+        -130
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 0,
+      "id": "Thruster02",
+      "locations": [
+        88,
+        -156
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "WS0009",
+      "locations": [
+        91.5,
+        156
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 240,
+      "id": "WS0008",
+      "locations": [
+        69,
+        -55.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "COMPOSITE"
+    },
+    {
+      "angle": -0,
+      "arc": 240,
+      "id": "WS0010",
+      "locations": [
+        69,
+        55.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "COMPOSITE"
+    },
+    {
+      "angle": -45,
+      "arc": 240,
+      "id": "WS0011",
+      "locations": [
+        107.5,
+        -126
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "COMPOSITE"
+    },
+    {
+      "angle": 45,
+      "arc": 240,
+      "id": "WS0012",
+      "locations": [
+        107.5,
+        126
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "COMPOSITE"
+    }
+  ],
+  "width": 320
+}

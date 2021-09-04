@@ -1,0 +1,327 @@
+id,type,text1,text2,text3,notes
+
+edshipyard_pomeranian,SHIP,"This little ship has plenty of firepower thanks to 3 Synergy turrets and a mine teleporter, but is quite fragile, without built-in shields and light armor. The Pomeranian is more effective at range when deployed in large numbers.
+
+The ship comes with a mine teleporter system that can teleport a single mine at extreme range, but it has a long cooldown.",,,
+
+edshipyard_corgi,SHIP,"The Corgi is an excellent support ship. It can equip long range missiles and launch drones to the frontline.
+
+It's bays are very compact, so they cannot support large wings of manned fighters, using small drones instead.
+
+The Corgi's main weakness are its frail armor and shields and its bellow average speed.",,,
+
+edshipyard_dachshund,SHIP,"Express delivery service excellence. The Dachshund is a specialized freighter made to travel between colonies to deliver cargo quickly and efficiently. It is equipped with a Burn Drive and is quite fast when compared with other freighters of its size giving it a good chance of evading pursuers. 
+
+The ship has external cargo containers and its cargo capacity cannot be expanded any further by conventional hull modifications.",,,
+
+edshipyard_leonberger,SHIP,"An eccentric design that combines the size of a battlecruiser, the thick armor of a ramming ship and the agility of a phase ship. This is the fastest capital ship in the ED Shipyards line. The Leonberger is such a unique ship that it requires all crew to wear exosuits with special personal kinetic dampers to avoid accidental deaths due to the high acceleration power of the ship.
+
+The ship has no built in safety measures allowing it to operate at maximum performance all the time, and makes it quite infamous among crew members as the fastest metal coffin in the sector.
+
+The ship system is the Magnetic Burst, it has two operational modes, the first one repels hostile ships and zaps missiles for defensive use, the second is for offensive use, it pulls the ship and a hostile target together forcing a collision, the pull is so powerful it takes both the Leonberger and its target out of phase space right before the collision happen, while using such system seems suicidal at best it, is actually very effective due to the damage damper effect created by the magnetic field surrounding the Leonberger, greatly lowering all damage taken for a few seconds.",,,
+
+edshipyard_groenendael,SHIP,"The Groenendael is a powerhouse. It was made to be a fleet's flagship, bringing both fighters and big guns, it has a good shield and decent armor.
+
+The ship system is a new invention called the Spatial Swap, which allows the Groenendael to swap places with an allied ship of Cruiser class or larger. The system has a secondary effect caused by the spatial distortion, it scatters incomming impacts on the ship shields greatly incressing their absorption for a few seconds.
+
+This ability to quickly move from one side of the battlefield to the other or rescue allies in danger makes this ship an excellent asset in any fleet.",,,
+
+edshipyard_bernard,SHIP,"Slaving a pair of prometheuses' fuel lines to a centralized ox made a startling result, the drive field stabilizer's effect was boosted further, while the stabilization could be collapsed onto the hull to work as an ancient integrity field, effectively doubling each of the prometheuses' capacity for the same hull integrity.
+
+Such a system requires near constant maintenance to maintain, and thus strains all but the most well supplied fleets' logistics to the point that the design is considered more of a trophy than as an actual fleet ship.
+
+Nevertheless, the capacity and stabilization make some captains decide it is entirely worthwhile, as they are well off enough already",,,
+
+edshipyard_saluki,SHIP,"The Saluki is one of the fastest Cruiser class ships in the sector. The ship had all safety measures removed and had it's engines overtuned increasing it's speed and maneuverability, but these modifications came at the cost of ordinance points, which are below average for a ship of this size.
+
+This ship is the definition of glass cannon, it sports excellent speed and firepower, but it is extremelly fragile, it's only defense is phasing out of danger.
+
+The ship comes with an experimental system that uses phase technology to slow time for a few seconds, allowing the Saluki to dish a great deal of punishment at a moment's notice.",,,
+
+edshipyard_rottweiler,SHIP,"Despite its clumsy appearance and slow speed the Rottweiler is designed to ambush and shred unprepared opponents, while keeping friendly ships safe by exchanging places with them.
+
+The ship system is the Ambusher Swap, designed as a modification of the Spatial Swap, it allows the Rottweiler to swap places with an ally in danger and face its aggressor while boosted with extra firepower and flux dissipation turning the tables on any overextended hostiles.",,,
+
+edshipyard_wurgandal,SHIP,"The Wurgandal is the epitome of technology developed by Eccentric Designs. The ship is massive and has several large modules, each requiring its own bridge full of officers to command all crew it needs to run.
+
+The ship's most terrifying feature is the built-in weapon, the Tyrant Maw, an absurdly sized beam weapon based on the Tachyon Lance, it takes 20 seconds to fire and builds so much flux it can overload the ship if not used properly, but the damage it can deal is absolutely devastating.
+
+But the Tyrant Maw is not the Wurgandal's only weapon, each module carries its own weapons, and their range is greatly boosted by the Tyrant Eye system matching even the range of Station weaponry for a few seconds, the ship also carries 10 drone fighter wings which adds to the long range firepower.
+
+The ship has two powerful shield layers, one controlled by the frontal shield modules and a second layer controlled by the main module.",,,
+
+"edshipyard_papillon",SHIP,"This little experimental bomber drone is equipped with extremelly powerful engines and missile payload, the drone's agility makes it very hard to intercept and allows it cover long distances unmolested.
+
+The payload the Papillon carrier are 6 Dust micro missiles, the missiles have excellent tracking and circuvent the target and aim for the ship's engines, only a ship focused in PD can defend against the Dust missiles and stop the drone from retreating to refit. The drones are also equipped with a Wisp flare launcher.
+
+Despite the drones speed and the cover of Wisp flares, the little bombers are still very fragile and vulnerable to Point Defense, saturating the battlefield with expendable missiles before sending the Papillons in is recommended. ",,,
+
+"edshipyard_affenpinscher",SHIP,"The Pinscher is a pest, quick, agile and equipped with a phase cloak system make this drone very hard to destroy, and this is not a fighter to be ignored, it comes equipped with burst energy weapons that can both pressure shields and damage armor.
+
+The best answer against this drone is Area PD, or HE focused interceptor fighters and swarm missiles, the armor of the Pinscher is fairly weak and if this drone runs out of cloak in a tight spot there is little it can do to escape.",,,
+
+"edshipyard_pug",SHIP,"The Pug is an unshielded, but highly armored weapon platform, very simple, but effective, this little brick is quite hardy and can intimidate most frigates, but the drone has low attack range and is very slow. To deal with missiles the Pug is also equipped with 4 Wisp flares.
+
+The Pug is not an autonomous drone, it is remote-controlled by the carrier crew, and it has very low effective range, the drone main use is cheap escort for small carriers who don't expect fighting anything with large high explosive weaponry",,,
+
+"edshipyard_maltese",SHIP,"The Maltese repair drone is a very unique fighter, it holds no weapons and is very fragile, but it can reconstruct damaged hull and armor from allied ships during combat.
+
+First it will attempt to repair the hull and when it is fully repaired it will start on the armor. Shields will interfere in the repairs, each attempt has a chance to fail based on the strength of the shield.
+
+The drones can restore hull much more effectively if the target ship is in peak performance state since it can supply the drones with spare parts.
+
+The drones are programmed to follow and assist the selected target of the carrier if it is an ally, otherwise the drones will seek the most wounded allied ship nearby.",,,
+
+"edshipyard_terrier",SHIP,"A package delivery drone repurposed to carry ammo packs, the drones are programmed to deliver the packs to allied ships that use weapons with limited ammo. Not all weapons can be refilled, built in weapons cannot be reached by the drone and so they cannot be reloaded and weapons with very limited ammo require special materials that cannot be replaced during combat. Small weapons are always reloadable, medium weapons require 4 max ammo to be loadable and large weapons must have minimum 10 max ammo. The drones are not programmed to refill ammo of their own carrier ship's weapons.",,,
+
+edshipyard_collie,SHIP,"Built to assist destroyers in small fleets, the Collie is equipped with the Spatial Swap system, which allows it to swap places with an ally in danger and tank incomming damage while retreating. The ship is specialized in point defense and is unnable to use anti-ship weaponry.
+
+The fighter bay is a specialized light drone bay, unnable to equip most fighters, but still able to host a repair drone or other small drone fighters, the Maltese repair drone is recommended as it can be used to repair allies or be used as a swap target to get the Collie out of danger.",,,
+
+edshipyard_chin,SHIP,"The dream ship for smugglers and blockade runners. The Chin is the definition of slippery, equipped with both phase cloak and powerful engines capacble of incredible bursts of speed, this little guy is almost impossible to catch.
+
+The cargo holds of this ship are different for each unit produced, having different configurations and unique hidden compartments and shielded walls, and making it even worse for law enforcers to perform inspections, veteran officers tend to ignore the Chin during scans unless they are very determinated.
+
+But these features come at a high cost, both in supplies and fuel, this ship is not only fuel-hungry but also requires more maintenance than other ships of its size, making it simply not viable for long runs.",,,
+
+edshipyard_dobermann,SHIP,"Do not let this ship simple shape and thin silhouette fool you, the Dobermann bites harder than it barks, all the ship's guns face the left side, with very limited arcs but stable and fortified mounts, modular shields reinforce the left side protecting the guns even while the ship is venting.
+
+The most unique feature of the ship is the Grand Salvo, a weapon group composed of 4 modified Hellbore cannons that come out from inside the ship and blast the left side with a heavy volley of explosive rounds.
+
+Despite the amazing firepower this ship holds it can only fight enemies at the left broadside and only a thin shield protects the front, back and right side, this ship requires escorts to be effective in the battlefield.
+
+The Dobermann requires heavy logistical support as most of the internal cargo space is used to store the Hellborn cannons and their ammo.",,,
+
+edshipyard_beagle,SHIP,"The Beagle is a reimplementation of the technologies used to create the Dobermann, hosting one Hellborn cannon, which is an upgraded Hellbore cannon and two guardian shield modules, gives this little ship both great offensive and defensive potential.
+
+The main flaw of the ship is the low mobility for a destroyer class ship, which means he requires support and works better when flanking enemies instead of facing them one-on-one.
+
+Much like the Dobermann, the Beagle requires extra logistical support as the cargo space of the ship is very limited thanks to the Hellborn cannon and the required ammo.",,,
+
+edshipyard_chihuahua,SHIP,"The Chihuahua uses the experimental Doppelganger defensive system, the system launches clouds of nanobots that project imitations of the main ship, the nanobots also carry small metal fragments that are launched at incomming projectiles to destroy them simulating impact.
+
+By themselves the Doppelgangers created by the Chihuahua are just distractions for enemy Point Defense systems, their true potential comes from the transponder they carry transmiting exact coordinates needed for the second system Doppelswap, which swaps the location and velocity of one of the Doppelgangers with the main ship.
+
+This combination of ship systems makes the Chihuahua very powerful against slow projectiles and missiles, as it can dodge incomming fire constantly by swapping positions with the Doppelgangers. This combo can also be used offensively if a Doppelganger manages to flank the enemy ship, allowing the Chihuahua to swap with it and fire against the enemy vulnerable spots.",,,
+
+edshipyard_wolfhound,SHIP,"The best bang for your buck! The Wolfhound combines features of the Wolf and the Hound to create a very efficient and cheap frigate, a true jack of all trades with a great price tag for what it can offer!
+
+This ship is uncommon in the Ed Shipyards selection as it prioritizes funcion over form and has no speciality, it is capable both inside and outside of combat and it is a great choice for Independent capitains who are just starting their personal fleets.",,,
+
+edshipyard_wolfhound_p,SHIP,"The Wolfhound's evil twin, the Mk. II scraps all the versatility of the base model to focus on speed and power, the ship is quite deadly for its size.
+
+The built-in shielded cargo hold and great speed from overtuned engines make this ship a good smuggling ship, and one that can defend itself if needed.",,,
+
+edshipyard_dachshund_p,SHIP,"Stripped of its container holds and stuffed with armor and guns. The Dachshund Mk. II is not as defenseless as the base model, thanks to thick layers of scrap metal for armor and a built-in makeshift shield generator, this ship is no longer a sitting duck and can fight close to the drone wings it deploys.
+
+Despite holding mostly small ballistics as it's main weapons, the ship can also bring some missiles, and if this is not enough firepower the whole ship can become a battering ram thanks to the improved engines and the new ship system.",,,
+
+edshipyard_carolina,SHIP,"A gun with engines, the Carolina defies common sense, boasting the spiciest weapon ever made, the Carolina Reaper.a weapon so large the recoil is powerful enough to push the ship back.
+
+The gun comes with six shots, upon exhausting the ammunition the ship system replenishes the bullets by fabricating them on the spot reloading one by one.
+
+Despite having raw firepower the ship is quite fragile, a tiny omni shield and a few small energy turrets are all the Carolina has to protect itself if the Reaper is reloading or on cooldown.
+
+There is a big iron on this ship.",,,
+
+edshipyard_carolina_p,SHIP,"Stripped of its greatest feature, the Pirate Carolina doesn’t seem like a threat when compared to the original version, but this ship is based on the design on the successful Pirate Falcon and it specialized in equipping missiles.
+
+The ship system Fast Missile Racks give the Pirate Carolina great burst damage potential, but like the original model the ship is very fragile and the flux buildup from the ship system might cause the shields to fail if used under attack.
+
+It is a mystery why the Carolina Reaper was stripped from this ship, as it is common knowledge that pirates love big guns, some speculate the reason for this is that the pirates found something a lot more terrifying to equip those guns on.",,,
+
+edshipyard_shiba,SHIP,"Improvements in the Doppelganger system resulted in the creation of the Shiba, a ship that can use the full potential of the system both defensively and offensively. The ship is mostly automated, to the point where the technology used is borderline illegal in Hegemony space, thanks to this the ship can be piloted by a single person.
+
+The Shiba was nicknamed as the 'Wizard Ship' due to the unique way it fights, using Doppelganger holograms, swapping places with the holograms when in danger and attacking with real projectiles between fake ones.
+
+Despite the effectiveness of the Shiba against missiles and slow projectiles, the ship is not trully viable for most situations due to how weak against beams both the Dopplegangers and the main ship are.",,,
+
+edshipyard_retriever,SHIP,"Most capitals benefit from frigate and destroyer escorts, but the case of the Retriever is the opposite. This ship is made to support small ships, it is equipped with a Shield Field Generator that creates a large safe zone for friendly ships, a duo of rescue drones, built-in repair drones and a large amount of PD weapons.
+
+The shield generator is external, most of the mechanism is built in the frontal module, hard flux generated is transfered to the main ship, while soft flux is managed by the module, if either overloads the system shuts down, also if the frontal module is destroyed the shield is permanently disabled.
+
+The central bay releases two rescue drones with Spatial Swap systems, they will automatically rescue Frigates and Destroyers in danger by swapping places with them putting the endangered ships in reach of your repair drones.",,,
+
+edshipyard_newfoundland,SHIP,"The Newfoundland is known as the 'one ship convoy' despite being used mostly as a very large combat freighter it has more guns than most combat focused capitals and carries its own fighter escorts.
+
+Despite its gargantuan size and mass the Newfoundland is very fast for a capital ship, both in burn speed and during combat when the Steam Drive is enganged.
+
+The modular nature of the ship allows for different roles to be fulfilled by swapping wagons, although this requires special equipment and installations, unlikely to be found on most markets.",,,
+
+edshipyard_beauceron,SHIP,"Created due to a request for a smaller and more versatile rescue ship, the Beauceron was designed to be a powerful support craft and can rescue ships of any size thanks to the built in rescue drone, this allows the ship itself to swap places with destroyer and large ships while the drone can rescue frigates.
+
+Often described as the child of the Retriever and Groenendael, the Beauceron takes modules and design elements from both ships and offer use for those who want the functionality of either of those ships for a smaller price or in a smaller size.",,,
+
+edshipyard_malinois,SHIP,"Designed for long range support, the Malinois excels in electromagnetic and intelligence warfare, with built-in ECM equipment and advanced sensors, it also comes with 4 drone bays, and can equip up to 3 medium missile weapons allowing it to assist friendly ships from the safety of the backlines. But all this power comes with costs, the ship has extremely expensive maintenance, low peak performance time and is very fragile.
+
+All drones launched by this ship are equipped with a signal repeater capable of amplifying the effect of the ship system Misdirection. Allowing it to hijack enemy missiles remotely, using the repeater in the drones to take over missile targeting systems causing them to seek and destroy their previous allies.",,,
+
+edshipyard_beauceron_p,SHIP,"This ship has undergone heavy modification, specially in the hull and armor plating, the new design is strangely symmetric and well put together for this to be the job of simple pirates. The Pirate Beauceron might be sign of something more sinister happening in those fringe pirate bases.
+
+With most limiting systems removed and the Point Defense specialization scrapped, the ship weapons are more versatile than the original model allowing for more offensive builds, the rescue drone fabricator was also hacked and heavily modified to produce suicide bomb drones instead which will sneak by enemies and detonate as closer to the hull as possible. The ship Spatial Swap was replaced by Targeting Feed systems, giving the ship's fighters a stronger bite.",,,
+
+edshipyard_dobermann_p,SHIP,"The main features of the original Dobermann were removed from this ship, turning the ship into something completely different, the Grand Salvo system was scrapped, turning the extra large weapon slots into hangars for fighters, why would pirates make a ship less intimidating and deadly is a mystery, perhaps they found a more terrifying use for the powerful weaponry.
+
+To compensate for the loss of the bigger guns many smaller weapon slots were jury-rigged into the ship, due to the new weapon configuration and the addition of 4 fighter bays some people call this ship the poor-mans Legion.",,,
+
+edshipyard_basenji,SHIP,"The Basenji assembles several sensor arrays with phase cloak devices and a new antimatter containment technology, the result is a ship that is capable of traveling through deep space and exploring hostile systems without attracting attention. The ship is equipped with survey equipment allowing for more efficient planetary scanning.
+
+The ship is not made for combat, but if caught off guard it can be very slippery, through the use of phase cloak and microburns the ship can evade dangerous situations and escape the fight.
+
+While the ship was designed for exploration its features are often used for more nefarious ends, the Basenji is an excellent smuggler ship and can even be used for infiltration and sabotage with a few modifications.",,,
+
+edshipyard_retriever_p,SHIP,"Another support craft that undergone heavy modification, specially in the hull and armor plating, the new design is strangely symmetric and well put together for this to be the job of simple pirates. The Pirate Retriever is the confirmation of something more sinister happening in those fringe pirate bases.
+
+With most limiting systems removed and the Point Defense specialization scrapped, the ship weapons are more versatile than the original model allowing for more offensive builds. The built-in support Maltese drones were unstalled allowing for the use of aggressive fighters. And the rescue drone fabricator was also hacked and heavily modified to produce suicide bomb drones instead which will sneak by enemies and detonate as closer to the hull as possible.
+
+The ship system, Recall Device was replaced by Targeting Feed systems, and the Shield Field generator now feeds a large energy hardpoint and a normal frontal shield instead of protecting nearby ships.",,,
+
+edshipyard_bernese,SHIP,"Created with the purpose of aiding deep exploration and salvage fleets with repairs, spare parts and even the construction of frigates on demand, the Bernese became a ship very popular with scavengers. The ship has several built in tools for either tearing scrap hulks appart or building whole new ships given the materials to do so.
+
+Despite the usefulness of this ship during salvage operations, this is still a civilian craft and should be kept away from active battlefields when possible, the ship has no shields and little to no weapons, it’s only drone bay is a built-in Terrier drone bay and the claws used to drag and move scrap are not strong enough to be used as weapons and would break apart if used against a ship in actual combat.
+
+The ship's biggest flaw is how 'loud' it is, the Bernese has a huge signature mostly due to it's Drive Field Stabilizer, this vessel is not made for subtle operations.",,,
+
+edshipyard_dalmatian,SHIP,"The development of the Dalmatian started with the objective of creating a superfreighter capable of high burn speeds and able of escaping pirate ambushes, but after several revisions the project changed into something more unique, with the installation of custom phase coils replacing the shields and thick hull layers to shield the cargo from radiation, the Dalmatian became the first phase capable superfreighter.
+
+The ship has zero signature, a higher than average burn speed, shielded cargo holds, and a microburn system for emergency maneuvers, making it the smuggler dream ship, hard to find, hard to catch, immune to police scanners. But these qualities come with a high cost, the ship can only carry half of the cargo while spending twice the supply and fuel of the concorrence, manufacture of the delicate machinery needed to make this ship run is incredibly hard and requires rare materials making this one of the most expensive ships in the Ed Shipyards catalogue.",,,
+
+edshipyard_redbone,SHIP,"The Redbone is a phase destroyer that carries a special weapon, the B.A.R.K.S. a kinetic shockwave generator that pushes enemies away with great force allowing the Redbone to take enemy ships out of position and even bash them against each other.
+
+The ship system is Mine Teleporter, it teleports a single mine at a very long range, great for using on ships blown away by the B.A.R.K.S as they become unable to evade the mine.",,,
+
+edshipyard_basset,SHIP,"The hunter destroyer Basset is a ship designed to shut down phase ships, it excels in the use of beam weapons and a fighter wing to keep enemy phase ships in check, an omni shield to defend against surprise attacks from odd angles and decent speed and manueverability.
+
+But the Basset's secret weapon is the Magnetic Burst, while weaker than the version used by the Leonberger it is still strong to drag targeted phase ships out of phase space making them vulnerable.",,,
+
+edshipyard_bischon,SHIP,"The Bischon is the attack dog of Eccentric Designs frigates, almost a destroyer in both size and firepower, it boasts 2 medium and 4 small guns and powerful custom phase coils.
+
+The ship system is the Ambusher Swap, which allows the Bischon to swap places with an ally in danger and grants the Bischon a boost in firepower and flux dissipation.",,,
+
+
+edshipyard_Rad_m,WEAPON,"This weapon projects a constant flux of neutrinos which interact with matter creating charged particles, due to the unnaturally huge flux of neutrinos this effect becomes intense enough to cause electromagnetic interference powerful enough to damage electronic devices.
+
+The beam is also capable of going through solid objects and can affect several missiles or unshielded fighters long it's way, but the beam will be stopped by armor which is very innefective against and shields which almost negate the weapon entirely",Support,,
+
+edshipyard_0_Dust,WEAPON,"This is a single burst, low maintenance Dust launcher. The Dust micro missile is a fast heat seeking missile, the missile is designed to overcome frontal shields by going around the target and aiming for the engines.
+
+These missiles are also very useful for clearing frigates and fighters acting as a swarmer type missile and due to their long duration they can also harass phase ships forcing them to keep their distance.",Assault,,
+
+edshipyard_1_Dust,WEAPON,"This small launcher can release bursts of 4 Dust missiles. The Dust micro missile is a fast heat seeking missile, the missile is designed to overcome frontal shields by going around the target and aiming for the engines.
+
+These missiles are also very useful for clearing frigates and fighters acting as a swarmer type missile and due to their long duration they can also harass phase ships forcing them to keep their distance.",Assault,,
+
+edshipyard_2_Dust,WEAPON,"This medium sized launcher can release bursts of 8 Dust missiles. The Dust micro missile is a fast heat seeking missile, the missile is designed to overcome frontal shields by going around the target and aiming for the engines.
+
+These missiles are also very useful for clearing frigates and fighters acting as a swarmer type missile and due to their long duration they can also harass phase ships forcing them to keep their distance.",Assault,,
+
+edshipyard_3_Dust,WEAPON,"This large sized launcher can release bursts of 16 Dust missiles. The Dust micro missile is a fast heat seeking missile, the missile is designed to overcome frontal shields by going around the target and aiming for the engines.
+
+These missiles are also very useful for clearing frigates and fighters acting as a swarmer type missile and due to their long duration they can also harass phase ships forcing them to keep their distance.",Assault,,
+
+edshipyard_4_Dust,WEAPON,"This rare extra large launcher can release bursts of 32 Dust missiles, it has a large storage capacity for twice the amount of missile barrages. The Dust micro missile is a fast heat seeking missile, the missile is designed to overcome frontal shields by going around the target and aiming for the engines.
+
+These missiles are also very useful for clearing frigates and fighters acting as a swarmer type missile and due to their long duration they can also harass phase ships forcing them to keep their distance.",Assault,,
+
+edshipyard_KFP,WEAPON,"The Kinetic Field Projector, colloquially known as Shield Bash by the Rottweiler crew is a powerful shield wave that is projected ahead of the ship damaging enemy ships.
+
+The wave is generated by the interaction between the two shield layers and is unique to the Rottweiler, the frequency required to project this wave can overload the ship generators, so it can only be done once every few seconds, also the KFP is not a weapon system and is not affected by most weapon hullmods",Assault,,
+
+edshipyard_MAW,WEAPON,"This weapon is the result of using technology based on the Tachyon Lance and making it as large and powerful as possible, the damage is only matched by the insane flux cost of charging and firing the gun.
+
+The gun requires a special type of charge generated by keeping the flux of the main module as high as possible without overloading.
+
+The gun takes 20 seconds to build up and fires for 10 seconds. Upon fully charged a powerful pulse is released with the beam dealing massive burst damage.
+
+Shield and weapon modules are disabled while the Tyrant Maw is active. Using this weapon will cause the shield modules to overload. If any module overloads during the firing of this weapon the entire system overload. Cancelling or overloading while the gun is firing will cause 25% CR loss due to damage to internal circuits.",Assault,,
+
+edshipyard_CR,WEAPON,"Unnecessarily large revolver, despite being very efficient this weapon still eats more flux per shot than most large weapons out there, the recoil of a single shot can push the entire ship around. The ammunition can be restored by the ship system.
+
+See you space cowboy.",Assault,,
+
+edshipyard_wizard,WEAPON,"Also known as the 'Magic Missile'. The Nanocloud Caster releases tiny clusters of nanomachines similar to the ones who project the Doppelganger holograms, but these models had their projectors replaced by a high energy payload, which classifies them as guided bombs.
+
+Upon reaching the target the payload is triggeted dealing energy and emp damage. The drones have good tracking, but slow speed.
+
+The Doppelgangers have their own Casters, but they release a much dilluted cloud of drones, which use their payloads to instead create distractions acting as flares. Keeping the enemy PD systems busy while the main ship's drones reach the target.",Assault,,
+
+edshipyard_Wisp_Launcher,WEAPON,"Wisps are projectiles composed 99% of ionized heated gas which gives out a heat signature very similar to ship engines, the gas is contained by a magnetic field projected by a tiny device which controls the wisp. The Wisps act as flares releasing emp bursts into projectiles that touch it, they can also seek those projectiles by themselves releasing part of the gas for propulsion.
+
+Both the device and the gas used to create a wisp are extremely cheap and easy to find, and the energy used to fabricate those components and heat the gas are negligible, this makes the Wisp Launcher a weapon with almost no operational costs or need for maintenance considering the scale of a spaceship.",Support,,
+
+edshipyard_SB1,WEAPON,"This weapon shoots bursts of 8 Shield Breaker bullets, special projectiles capable of greatly increasing their inertia for a fraction of a second before turning into dust. This gives them immense kinetic force on impact, but also limits their range.
+
+The Light Shield Breaker is a very deadly weapon despite it’s small size and can easily overload a careless frigate or destroyer.",Assault,,
+
+edshipyard_SB2,WEAPON,"This weapon shoots bursts of 14 Shield Breaker bullets, special projectiles capable of greatly increasing their inertia for a fraction of a second before turning into dust. This gives them immense kinetic force on impact, but also limits their range.
+
+The Heavy Shield Breaker is hard to use due to its low range and huge spread, requiring point blank shots to not waste the precious ammo.",Assault,,
+
+edshipyard_SB3,WEAPON,"This weapon shoots bursts of 20 Shield Breaker bullets, special projectiles capable of greatly increasing their inertia for a fraction of a second before turning into dust. This gives them immense kinetic force on impact, but also limits their range.
+
+Seeing a Mega Shield Breaker equipped and loaded is a really bad sign, for both the ship crew and the enemy fleet, because only a reckless captain would equip such a weapon on a capital ship, you expect ramming action and many casualties from this madman.",Assault,,
+
+edshipyard_SC0,WEAPON,"The prototype ricochet is a quaint weapon, it is not particularly powerful, accurate, efficient nor even reliable, while it achieves what it was created to do, which is testing the viability of the ricochet frag rounds, it is more of an interesting trinket.than an actual weapon.
+
+Often overlooked by most captains and usually used to keep the crew entertained in while going through asteroid fields, having the gunners bet who can get a triple bounce first. It can be somehow effective as Point Defense if deployed in very large numbers, but the only advantage it has over other PD weapons is the low operational cost.",Support,,
+
+edshipyard_SC1,WEAPON,"Based on the concept of the ricochet pellet, the Light Scatter Cannon aims to turn a fun trinket into an actual point defense system, it shots 6 pellets at once, each of them is still able to ricochet and strike more targets in its path, when used in large numbers this weapon can become quite effective at destroying swarms of missiles or fighters.",Support,,
+
+edshipyard_SC2,WEAPON,"Fielding a larger barrel allowing for bigger ricochet shells, the Heavy Scatter Cannon can shoot twice as many pellets as its predecessor, the drawback is the loss of accuracy, which was already bad in the base of the Light Scatter. The weapon makes up for it by having a below average operational cost.",Support,,
+
+edshipyard_SC3,WEAPON,"The end result of the ricochet project, a weapon capable of firing 24 pellets simultaneously  every second non stop, thanks to the inexpensive common ammunition and the improved reloading mechanism, a single shot of this weapon is capable of clearing missile swarms and making the life of enemy fighter pilots a bullet hell.",Support,,
+
+edshipyard_MG,WEAPON,"Inspired by the Leonberger's Magnetic Burst, this weapon fires a charged energy projectile that interacts with the target's shields causing a powerful magnetic field that pulls nearby projectiles, fighters, asteroids and even other ships into the point of impact.
+
+If the projectile hits hull or armor instead the magnetic charge is released as EMP damage disabling all nearby weapons or engines, this creates a lose-lose situation for the target in a crowded battle, keep shields up and risk taking high kinetic damage from collisions or lower the shields and be disabled.",Assault,,
+
+edshipyard_CC,WEAPON,"Different from most anti-fighter weapons that target the fighters themselves this weapon is made to destroy the source. The special shells used by the cluster cannon deal heavy kinetic damage pressuring the enemy's carrier shields and break open on impact releasing fragmentation mines which act as deterrents for the fighters.
+
+However this convenient weapon requires special ammunition, which is hard to fabricate during combat, the limited ammo calls for short fights as dragging out the combat will cause the near unlimited replacement of enemy fighters overwhelm to overcome the limitations of the Cluster Cannon..",Assault,,
+
+edshipyard_GS1,WEAPON,"This weapon launches a grapeshot projectile that contains 6 ricochet pellets, which are unleashed on impact. If the projectile hits a shield, the pellets will be ejected backwards hopefully catching fighters other ships on the way, but won't hit the shield directly, but if the projectile makes contact with hull or armor the pellets will be released inside the hull dealing massive damage bouncing around until they get stuck on something or bounce out of the hull, the damage is comparable to a point blank shot of a Light Scatter Cannon.",Assault,,
+
+edshipyard_GS2,WEAPON,"This weapon launches a grapeshot projectile that contains 12 ricochet pellets, which are unleashed on impact. If the projectile hits a shield, the pellets will be ejected backwards hopefully catching fighters other ships on the way, but won't hit the shield directly, but if the projectile makes contact with hull or armor the pellets will be released inside the hull dealing massive damage bouncing around until they get stuck on something or bounce out of the hull, the damage is comparable to a point blank shot of a Heavy Scatter Cannon.",Assault,,
+
+edshipyard_GS3,WEAPON,"This weapon launches a grapeshot projectile that contains 24 ricochet pellets, which are unleashed on impact. If the projectile hits a shield, the pellets will be ejected backwards hopefully catching fighters other ships on the way, but won't hit the shield directly, but if the projectile makes contact with hull or armor the pellets will be released inside the hull dealing massive damage bouncing around until they get stuck on something or bounce out of the hull, the damage is comparable to a point blank shot of a Mega Scatter Cannon.",Assault,,
+
+edshipyard_Plink,WEAPON,"A very small plasma launcher so small and efficient that it can be deployed by clusters of nano-drones like Chihuahua Doppels",Suppression,,
+
+edshipyard_BARKS,WEAPON,"The Burst Array of Reverberating Kinetic Shockwaves is a weapon unique to the Redbone, it generates a powerful kinetic wave that pushes enemies away with extreme force, the weapon's major drawback is the short range, requiring the fragile Redbone to get very close to its target.",Special,,
+
+edshipyard_FL1,WEAPON,"This high powered laser requires half second to focus before unleashing an extremely powerful stream of photons, instantly heating any material it makes contact with to temperatures remembling the surface of a star. The weapon overheats incredibly fast, requiring long downtimes.",Assault,,
+
+edshipyard_FL2,WEAPON,"The larger version of the Light Fire lance, it can unleash an even more powerful beam, instantly vaporazing any material it makes contact with to temperatures remembling the interior of a star. The weapon overheats incredibly fast, requiring long downtimes.",Assault,,
+
+edshipyard_FL3,WEAPON,"The Mega Fire Lance is an expensive weapon it requires special heat resistant parts, constant maintenance and a good deal of power, but it compensates with incredible firepower, it unleashes a beam so hot it instantly turns any material it makes contact with into plasma with temperatures remembling the core of a star. The weapon overheats incredibly fast, requiring long downtimes.",Assault,,
+
+
+edshipyard_ambusher_swap,SHIP_SYSTEM,"Swaps places with the target and enhances the ship weapons and flux dissipation after the swap for a few seconds. Can only swap with friendly targets with similar mass. To request a swap the player must select the swapping ship and be in danger",Defensive,"Swaps places with the target and enhances the ship weapons after the swap for a few seconds. Can only swap with friendly targets with similar mass",
+
+edshipyard_reload_CR,SHIP_SYSTEM,"Reloads the Carolina Reaper, the bullets are loaded one at a time, bullets are reloaded by the right part of the cylinder and shot by the left side.",Support,"Reloads the Carolina Reaper, the bullets are loaded one at a time.",
+
+edshipyard_doppelganger,SHIP_SYSTEM,"Releases 3 clouds of nanomachines able to project holograms of the Chihuahua and fool enemy point defense systems. Use the Doppelswap system to switch the Chihuahua location and velocity with a Doppelganger",Defensive,"Releases 3 clouds of nanomachines able to project holograms of the Chihuahua and fool enemy point defense systems.",
+
+edshipyard_doppelganger2,SHIP_SYSTEM,"Releases 2 dense clouds of nanomachines able to project holograms of the Shiba and fool enemy point defense systems. Use the Doppelswap system to switch the Shiba location and velocity with a Doppelganger",Defensive,"Releases 2 clouds of nanomachines able to project holograms of the Shiba and fool enemy point defense systems.",
+
+edshipyard_grand_salvo,SHIP_SYSTEM,"Unleashes a powerful volley of explosive rounds, main shield and engines are disabled while the system is active.",Offensive,"Unleashes a powerful volley of explosive rounds, main shield and engines are disabled while the system is active.",
+
+edshipyard_spatial_swap,SHIP_SYSTEM,"Swaps places with the target and fortifies the ship shields after the swap for a few seconds. Can only swap with friendly targets with similar mass. To request a swap the player must select the swapping ship and be in danger",Defensive,"Swaps places with the target and fortifies the ship shields after the swap for a few seconds. Can only swap with friendly targets with similar mass",
+
+edshipyard_mine_teleport,SHIP_SYSTEM,Teleports a heavy phase mine to the target area. The mine will slowly track nearby enemy ships and explodes a few seconds. Long range but has long cooldown and cannot store charges.,Offensive,Teleports a heavy proximity mine to the target area. Long range but has long cooldown and cannot store charges.,
+
+edshipyard_magnetic_burst,SHIP_SYSTEM,Releases a powerful magnetic pulse pulling nearby enemies closer and destroying missiles. Forces phased ships to re-enter real space.,Offensive,Releases a powerful magnetic pulse pulling nearby enemies closer and destroying missiles. Can be used while Phased to re-enter real space.,
+
+edshipyard_relativitydrive,SHIP_SYSTEM,This device allows the user to greatly slow time around it at the cost of double Combat Rating degradation while active.,Support,This device allows the user to greatly slow time around it at the cost of double Combat Rating degradation while active,
+
+edshipyard_wurg_sensor,SHIP_SYSTEM,Greatly expands the ship's sensor range and all module weapon range for a few seconds.,Support,Greatly expands the ship's sensor range and all module weapon range for a few seconds.,
+
+edshipyard_field_shield_control,SHIP_SYSTEM,"Projects a large shield that protects allies.",Defensive,"Projects a large shield that protects allies.",
+
+edshipyard_steam_drive,SHIP_SYSTEM,"Redirects all power from maneuvering thrusters to the engines, greatly increases top speed and acceleration, generates hard flux while active.",Support,"Redirects all power from maneuvering thrusters to the engines, greatly increases top speed and acceleration, generates hard flux while active.",
+
+edshipyard_commit_sudoku,SHIP_SYSTEM,"Initiates self destruction countdown, the system is cancelled if there are no enemies nearby.",Offensive,"Initiates self destruction countdown, the system is cancelled if there are no enemies nearby.",
+
+edshipyard_microburn,SHIP_SYSTEM,"Provides a brief engine boost, propelling the ship forward at an extreme velocity.",Movement,"Provides a brief engine boost, propelling the ship forward at an extreme velocity.",
+
+edshipyard_misdirection,SHIP_SYSTEM,"Hijacks enemy missiles around this ship and her active fighter wings.",Support,"Hijacks enemy missiles around this ship and her active fighter wings.",

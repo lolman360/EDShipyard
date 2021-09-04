@@ -1,0 +1,21 @@
+name,id,flux/second,f/s (base rate),f/s (base cap),flux/use,f/u (base rate),f/u (base cap),cr/u,max uses,regen,charge up,active,down,cooldown,toggle,noDissipation,noHardDissipation,hardFlux,noFiring,noTurning,noStrafing,noAccel,noShield,noVent,icon
+Mine Teleport,edshipyard_mine_teleport,,,,300,,0,,,,0.25,,1,10,,,,,,,,,,,graphics/icons/hullsys/interdictor_array.png
+Magnetic Burst,edshipyard_magnetic_burst,1,,,,,,,,,3,1,3,15,,,,,,,,,TRUE,TRUE,graphics/icons/hullsys/emp_emitter.png
+Relativity Drive,edshipyard_relativitydrive,,,,,,0.25,,,,1,,10,20,,,,TRUE,,,,,TRUE,,graphics/icons/hullsys/temporal_shell.png
+Tyrant Eye,edshipyard_wurg_sensor,600,,,,,,,,,5,10,5,5,TRUE,,TRUE,TRUE,,,,,,TRUE,graphics/icons/hullsys/entropy_amplifier.png
+Phase Cloak,edshipyard_silent_phasecloak,,,,,,,,,,0.5,,0.5,0.5,TRUE,,TRUE,TRUE,TRUE,,,,TRUE,,graphics/icons/hullsys/phase_cloak.png
+Spatial Swap,edshipyard_spatial_swap,,,,,,0.1,,,,3,12,3,27,,,,,,,,,,,graphics/icons/hullsys/displacer.png
+Ambusher Swap,edshipyard_ambusher_swap,,,,,,0.1,,,,3,12,3,42,,,,,,,,,,,graphics/icons/hullsys/displacer.png
+Grand Salvo,edshipyard_grand_salvo,,,,,,,,,,2,8,2,40,,,,,,,,,TRUE,TRUE,graphics/icons/hullsys/ammo_feeder.png
+Doppelganger,edshipyard_doppelganger,,,,,,,,3,1,0,,0,0,,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
+Doppelganger,edshipyard_doppelganger2,,,,,,,,2,1,0,,0,0,,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
+Illusion,edshipyard_doppel_glitch,,,,,,,,,,,1,2,,,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
+Doppelswap,edshipyard_doppelswap,,,,100,,,,,,0.1,,0.1,0.1,,,,,,,,,,,graphics/icons/hullsys/displacer.png
+Carolina Reload,edshipyard_reload_CR,,,,,,,,,,0.5,,,,,,,TRUE,,,,,,,graphics/icons/hullsys/ammo_feeder.png
+Rescue Drone Control,edshipyard_rescuedronecontrol,,,,,,,,1,0.025,0,,0,0,,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
+Suicide Drone Control,edshipyard_suicidedronecontrol,,,,,,,,1,0.015,0,,0,0,,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
+Field Shield Generator,edshipyard_field_shield_control,,,,225,,,,,,0.5,1,0.5,,,,,,,,,,,,graphics/icons/hullsys/fortress_shield.png
+Steam Drive,edshipyard_steam_drive,500,,,,,,,,,5,,5,5,TRUE,,TRUE,TRUE,,TRUE,TRUE,,,TRUE,graphics/icons/hullsys/burn_drive.png
+Self Destruct,edshipyard_commit_sudoku,,,,,,,,,,7,1,0,3,,,,,,,,,TRUE,TRUE,graphics/icons/hullsys/interdictor_array.png
+Plasma Boost,edshipyard_microburn,,,,,,,,3,0.03,0.5,0.5,0.5,,,,,,,,TRUE,TRUE,,,graphics/icons/hullsys/burn_drive.png
+Misdirection,edshipyard_misdirection,,,,,,,,,,2.5,0.6,0.3,40,,,,,,,,,,,graphics/icons/hullsys/active_flare_launcher.png
